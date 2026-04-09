@@ -1,0 +1,23 @@
+# NSBB552 Data Analytics Assignment
+
+This repository contains my work for the NSBB552 course.
+
+## Project Overview
+In this assignment, I:
+- Loaded and explored a dataset using Python
+- Performed descriptive statistics
+- Created box-whisker plots for data visualization
+- Conducted analysis using both Python and Excel
+
+## Files
+- `analysis.ipynb` → Jupyter Notebook with Python analysis  
+- `drugs-data.csv` → Dataset used  
+- `coding_background.md` → Personal coding statement  
+
+## Tools Used
+- Python (Pandas, Matplotlib)  
+- Visual Studio Code  
+- GitHub  
+
+## Author
+Efe Precious Onakpojeruo
