@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Efe 👋
 
-<!--
-**Efep3332/Efep3332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am currently learning Data Analytics using Python, Git, and Visual Studio Code.  
+Although I have some past experience with coding, I am rebuilding my skills from a beginner level to create a strong foundation.
 
-Here are some ideas to get you started:
+## What I'm Learning
+- Python for data analysis  
+- Data visualization  
+- Git and GitHub  
+- Working with real datasets  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Become confident in coding again  
+- Build clean and reproducible projects  
+- Apply data analytics skills in real-world problems  
+
+## Current Projects
+- NSBB552 Data Analytics Assignments  
+
+## Tools I Use
+- Python  
+- VS Code  
+- GitHub  
